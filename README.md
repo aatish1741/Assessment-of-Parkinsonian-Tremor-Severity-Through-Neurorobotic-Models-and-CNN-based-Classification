@@ -12,6 +12,19 @@ The project is divided into three main stages:
 - **Prototype 3:** Feature engineering of robotic kinematic data and CNN-based severity classification.
 
 ---
+## Prerequisites
+Before proceeding, please make sure you have installed and compiled the iCub simulation environment and all necessary dependencies from the following repository:
+👉 [Timothé Petitjean's GitHub Repository](https://github.com/Timozegu/ClosedLoopDBS-Parkinson-icub)
+
+You must follow the setup instructions provided there, including installing:
+
+robotology-superbuild
+
+YARP middleware
+
+Gazebo simulation environment
+
+These components are necessary for the successful execution of the neurorobotics simulations developed in this project.
 
 ## Docker
 
